@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/Repo/C-_projects/Warcraft/src",
-      "program": "e:/Repo/C-_projects/Warcraft/src/build/Debug/outDebug",
+      "cwd": "e:/Repo/C-_projects/Starcraft/src",
+      "program": "e:/Repo/C-_projects/Starcraft/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
