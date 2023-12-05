@@ -1,0 +1,31 @@
+Example inputs for testing
+
+1)
+ConjurusRex 50 180 1
+Arthas 50 140
+Sylvanas 50 150
+0 2 1
+
+2)
+Archmage 480 20 6
+DeathKnight 420 70
+DrawRanger 360 60
+0 0 0 2 2 1
+
+3)
+ConjurusRex 350 80 2
+Arthas 250 70
+Sylvanas 220 80
+0 2 0 2 1 1 2 0
+
+4)
+ConjurusRex 380 100 1
+Arthas 300 70
+Sylvanas 250 60
+0 0 2 1 1
+
+5)
+ConjurusRex 120 40 5
+Arthas 140 70
+Sylvanas 150 60
+1

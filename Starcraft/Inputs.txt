@@ -1,0 +1,21 @@
+Example inputs for testing
+
+1)
+vvv
+ppp
+
+2)
+bb
+ccc
+
+3)
+vvvvvvvvv
+cc
+
+4)
+bbvvbbvvbb
+ccppccppcc
+
+5)
+bbvvbbvvbbvvvvvvvvvvvvbbbbbbvvvvvbbbbbvvvvv
+ccppccppccpppppppppppcccccccccpppppppccccc
